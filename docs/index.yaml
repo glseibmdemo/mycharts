@@ -3,11 +3,11 @@ entries:
   notificationchart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-08-22T14:13:23.261655578-07:00
+    created: 2018-08-22T14:22:02.372342297-07:00
     description: A Helm chart for Kubernetes
-    digest: 97ac2899a081aff793a233568aeb1a691cec1548df92bdb8ca32aea5a81a1e64
+    digest: b5ec81fadb9a8ac73511c21bcaa6e9eb8b5fca2b692fb0b6ef7f0e5c57aa7194
     name: notificationchart
     urls:
     - https://glseibmdemo.github.io/mycharts/notificationchart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-08-22T14:13:23.261234323-07:00
+generated: 2018-08-22T14:22:02.371946803-07:00
